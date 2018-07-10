@@ -1,0 +1,17 @@
+.b1{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+
+}
+.b2{
+	width: 200px;
+	height: 200px;
+	background-color: skyblue;
+}
+.b3{
+	width: 200px;
+	height:200px;
+	position: fixed;
+	background-color: green;
+}

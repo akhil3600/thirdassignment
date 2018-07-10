@@ -1,0 +1,14 @@
+.b1{
+	width:450px;
+	height:250px;
+	background-color: pink;
+}
+.b2{
+	width: 100px;
+	height:250px;
+	background-color: lightgreen;
+	left: 455px;
+	
+	position: absolute;
+	top: 8px;
+}

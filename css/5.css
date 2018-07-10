@@ -1,0 +1,32 @@
+.b1{
+	width: 200px;
+	height:100px;
+	background-color:red;
+	
+
+}
+.b2{
+	width:200px;
+	height:100px;
+	background-color: skyblue;
+	position: absolute;
+	left: 400px;
+	top: 5px;
+
+}
+.b3{
+	width: 200px;
+	height:100px;
+	background-color: lightgreen;
+	position: absolute;
+	bottom: 200px;
+
+}
+.b4{
+	width: 200px;
+	height:100px;
+	background-color: yellow;
+	position:absolute;
+	left: 400px;
+	top: 380px;
+}
